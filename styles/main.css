@@ -5,3 +5,26 @@ html, body
     font-family: Helvetica, Arial, sans-serif;
     color: coral;
 }
+
+h3, span
+{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 0.25em;
+}
+
+.off
+{
+    color: red;
+    font-weight: bold;
+}
+.on
+{
+    color: forestgreen;
+    font-weight: bold;
+}
+.maintenance
+{
+    color: darkorange;
+    font-weight: bold;
+}

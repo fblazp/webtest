@@ -11,3 +11,4 @@ valor = 0
 while valor<10:
     print 'Valor', valor
     valor += 1
+#bucle for

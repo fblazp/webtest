@@ -6,13 +6,6 @@ html, body
     color: coral;
 }
 
-h3, span
-{
-    display: inline-block;
-    vertical-align: top;
-    margin-left: 0.25em;
-}
-
 .off
 {
     color: red;

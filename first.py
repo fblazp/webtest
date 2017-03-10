@@ -5,7 +5,7 @@ print(string)
 #cambio de valor
 string = "Estoy cambiando de valor"
 print(string)
-
+#Crear varias funciones
 a,b,c = 1, 2, 3
 print('Valor de las variables a, b y c',a, b, c) #concatenar
 #Eliminar variables con del

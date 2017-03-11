@@ -1,4 +1,4 @@
-#Comentarios, no afectan el código, el interpetre no los lee
+#Comentarios, no afectan al código
 #Imprimir mensaje en pantalla
 print("Hola Mundo")
 #Variables

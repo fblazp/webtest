@@ -20,9 +20,9 @@ print('Segundo resultado con paréntesis:',total)
 #Resto de una división %
 total = numero1 % numero2
 print('El resto de la división entre',numero1,'y',numero2,'es',total)
-#Cociente de una división //
+#Coeficiente de una división //
 total = 10 // 3
-print('El cociente de',numero1,'entre',numero2,'es',total)
+print('El coeficiente de',numero1,'entre',numero2,'es',total)
 #Potencias **
 total = numero1 ** numero2
 print(numero1,'elevado a',numero2,'es',total)

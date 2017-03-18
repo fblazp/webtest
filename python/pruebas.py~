@@ -1,3 +1,0 @@
-import modules.datos from Datos:
-datos = Datos()
-print(datos.nombre('Humpu retra alm345'));

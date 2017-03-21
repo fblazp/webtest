@@ -1,0 +1,6 @@
+class Datos():
+    def __init__(self):
+        self.__retrasos = 'Inserta bobo card'
+        self.__tiporetra = 'Indica tipo de bobo'
+    def nombre(self, nombre):
+        return 'Tipo de bobo'
